@@ -5,3 +5,4 @@ print("M làm cái miẹ gì git biết hết á! Cho nên đừng có xem Jav n
 print("M sửa cái gì cũng được, ngay tại GitHub")
 
 print("Hôm nay mình được ban làm lớp phó ngoại ngữ! Vui quá là vui")
+print("Cố tình để conflict đấy ahihi")
