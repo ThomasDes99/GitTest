@@ -1,0 +1,1 @@
+print("Chau 10 diem nhung da co ban gai roi")
