@@ -1,0 +1,1 @@
+print("Cái lùm mía sao kịp deadline đây?")
